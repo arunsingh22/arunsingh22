@@ -6,9 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunsingh22" alt="arunsingh22" /></a> </p>
 - Check out my YouTube Channel for more in-depth content.
 - 🌱 I’m currently learning **Langchain and ML.**
-
 - 💬 Ask me about **System Design,Golang,Redis,MongoDB,Kafka,Docker,AWS**
-
 - 📫 How to reach me **arunsingh.vellore@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
