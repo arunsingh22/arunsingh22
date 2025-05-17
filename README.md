@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunsingh22&label=Profile%20views&color=0e75b6&style=flat" alt="arunsingh22" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunsingh22" alt="arunsingh22" /></a> </p>
-
+- Check out my YouTube Channel for more in-depth content.
 - 🌱 I’m currently learning **Langchain and ML.**
 
 - 💬 Ask me about **System Design,Golang,Redis,MongoDB,Kafka,Docker,AWS**
