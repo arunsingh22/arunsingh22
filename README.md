@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Arun singh from India 🇮🇳 </h1>
-<h3 align="center">I have 5+ years of experience in Distributed Backend systems and Machine learning</h3>
+<h1 align="center">Hello 👋 everyone, Welcome to my GitHub page </h1>
+<h3 align="center">I'm Arun singh from India 🇮🇳. I have 5+ years of experience in Distributed Backend systems and Machine learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunsingh22&label=Profile%20views&color=0e75b6&style=flat" alt="arunsingh22" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Langchain and ML.**
 
-- 💬 Ask me about **Golang,Redis,Kafka,Docker,AWS**
+- 💬 Ask me about **System Design,Golang,Redis,MongoDB,Kafka,Docker,AWS**
 
 - 📫 How to reach me **arunsingh.vellore@gmail.com**
 
