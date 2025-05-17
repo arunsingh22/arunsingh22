@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Arun singh</h1>
-<h3 align="center">A passionate Software developer from India, working on Backend Services.</h3>
+<h1 align="center">Hi 👋, I'm Arun singh from India 🇮🇳 </h1>
+<h3 align="center">I have 5+ years of experience in Distributed Backend systems and Machine learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunsingh22&label=Profile%20views&color=0e75b6&style=flat" alt="arunsingh22" /> </p>
 
